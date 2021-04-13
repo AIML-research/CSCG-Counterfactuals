@@ -1,0 +1,5 @@
+tensorflow==2.3.0
+jsonlines==1.2.0
+pandas
+numpy<1.19
+matplotlib
